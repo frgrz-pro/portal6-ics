@@ -12,14 +12,6 @@ SUMMARY:VIT vs FAL — BLAST Rivals Fall 2026
 DESCRIPTION:BLAST Rivals Fall 2026 · Bo3 · Group A
 END:VEVENT
 BEGIN:VEVENT
-UID:manual-main-20261102@portal6-esports-ics
-DTSTAMP:20261102T000000Z
-DTSTART;VALUE=DATE:20261102
-DTEND;VALUE=DATE:20261109
-SUMMARY:IEM Beijing 2026
-DESCRIPTION:Placeholder (dates annoncées) — le bracket détaillé apparaîtra quand l'organisateur l'aura programmé
-END:VEVENT
-BEGIN:VEVENT
 UID:manual-main-20261125@portal6-esports-ics
 DTSTAMP:20261125T000000Z
 DTSTART;VALUE=DATE:20261125
